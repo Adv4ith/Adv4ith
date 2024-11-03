@@ -44,8 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adv4ith/Adv4ith/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
