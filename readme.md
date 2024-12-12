@@ -24,16 +24,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://youtube.com/@advaithkv29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/a.dvaith_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="advaithkaithackal@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/advaith-k-ajith-3a5118284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOxe8M%2BvGQoC90Bz8tYrQYg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
